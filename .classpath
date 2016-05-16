@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.7.1\hadoop-mapreduce-client-core-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-common\2.7.1\hadoop-mapreduce-client-common-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\org\apache\hadoop\hadoop-common\2.7.1\hadoop-common-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\org\apache\hadoop\hadoop-common\2.7.1\hadoop-common-2.7.1-tests.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\edu\umn\cs\spatialhadoop\spatialhadoop\2.4\spatialhadoop-2.4.jar"/>	
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\org\apache\commons\commons-math3\3.1.1\commons-math3-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\commons-configuration-1.10.jar"/>	
+	<classpathentry kind="lib" path="C:\Users\usuario\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\slf4j-api-1.7.19.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\slf4j-log4j12-1.7.19.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\jackson-databind-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\jackson-mapper-asl-1.9.13.jar"/>	
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\hadoop-hdfs-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\hadoop-client-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:\Users\usuario\PFC16\Programas\libCommon\hadoop-auth-2.7.2.jar"/>	
+	<classpathentry kind="output" path="bin"/>
+</classpath>
